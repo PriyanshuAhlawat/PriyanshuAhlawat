@@ -10,7 +10,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Passionate+Learner;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
 
@@ -19,7 +19,7 @@
 
 ## <👨‍💻 About Me>
 
-My name is **Priyanshu Ahlawat** and I am a sophomore pursuing my Bachelor's in Computer Science from India 🎓 &nbsp;&nbsp;I am a **Open Source enthusiast** & also passionate about **Web Development** 💻  &nbsp;Believe in **Learning & Empowering Others** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+My name is **Priyanshu Ahlawat** and I am a sophomore pursuing my Bachelor's in Computer Science from India 🎓 &nbsp;&nbsp;I am a **Open Source enthusiast** & also passionate about **Web Development** 💻  &nbsp;Believe in **Learning & Empowering Others** 
 <h1 align = "center">
   
   <a href="https://twitter.com/PriyanshuAhla13" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
