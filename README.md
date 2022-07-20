@@ -35,10 +35,10 @@ My name is **Priyanshu Ahlawat** and I am a sophomore pursuing my Bachelor's in 
 ![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=4B8BBE)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-![Kubernetes](https://img.shields.io/badge/-kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="kubernetes" width="60" height="60"/>
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 </h1>
   
