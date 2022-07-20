@@ -31,15 +31,12 @@ My name is **Priyanshu Ahlawat** and I am a sophomore pursuing my Bachelor's in 
 ## <🔩 ToolBox>  
 <h1 align = "center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=4B8BBE)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="kubernetes" width="60" height="60"/>
-![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"  alt="" width="60" height="60"/>
 </h1>
   
   ## <📈 GitHub Stats >  
