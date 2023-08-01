@@ -19,7 +19,7 @@
 
 ## <👨‍💻 About Me>
 
-My name is **Priyanshu Ahlawat** and I am a sophomore pursuing my Bachelor's in Computer Science from India 🎓 &nbsp;&nbsp;I am a **Open Source enthusiast** & also passionate about **Web Development** 💻  &nbsp;Believe in **Learning & Empowering Others** 
+My name is **Priyanshu Ahlawat** and I am an undergrad pursuing my Bachelor's in Computer Science from India 🎓 &nbsp;&nbsp;I am a **Open Source enthusiast** & also passionate about **Web Development** 💻  &nbsp;Believe in **Learning & Empowering Others** 
 <h1 align = "center">
   
   <a href="https://twitter.com/PriyanshuAhla13" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -35,6 +35,7 @@ My name is **Priyanshu Ahlawat** and I am a sophomore pursuing my Bachelor's in 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="80" height="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"  alt="" width="80" height="80"/>
